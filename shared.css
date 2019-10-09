@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
 }
-
+html,
 body {
   font-family: "Montserrat", sans-serif;
   margin: 0;
